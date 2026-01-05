@@ -3,8 +3,7 @@
 ## Event-Driven Dual-Attention Spiking Neural Network for Energy-Efficient Detection of Coffee Fruit Maturity
 </div>
 
-This repository provides the official implementation of **E2DA-SNN**,  
-an event-driven spiking neural network for energy-efficient object detection.  
+This repository provides the official implementation of **E2DA-SNN**, an event-driven spiking neural network for energy-efficient object detection.  
 
 The code is released to support reproducibility of the experimental results reported in the paper.
 
