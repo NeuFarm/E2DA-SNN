@@ -1,7 +1,6 @@
 <div align="center">
 
-## Event-Driven Dual-Attention Spiking Neural Network  
-## for Energy-Efficient Detection of Coffee Fruit Maturity
+## Event-Driven Dual-Attention Spiking Neural Network for Energy-Efficient Detection of Coffee Fruit Maturity
 </div>
 
 This repository provides the official implementation of **E2DA-SNN**,  
