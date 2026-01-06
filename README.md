@@ -35,7 +35,7 @@ This project uses two public datasets for fruit maturity detection:
 
 - **Cherry**: Secondary dataset, containing 2700 images with similar characteristics. [Download link](https://universe.roboflow.com/project-k2yri/cherry-tnrjs/dataset)
 
-> A small subset of sample images and labels are included in this repository (`dataset/images_samples` and `dataset/labels_samples`) to illustrate the data format. Please download the full datasets from the links above for training and evaluation.
+A small subset of sample images and labels are included in this repository (`dataset/images_samples` and `dataset/labels_samples`) to illustrate the data format. Please download the full datasets from the links above for training and evaluation.
 
 ### Pretrained Checkpoints
 
