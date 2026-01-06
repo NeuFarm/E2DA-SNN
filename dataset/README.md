@@ -50,7 +50,7 @@ are included to illustrate the data format and labeling style used in our experi
 
 After downloading and extracting the datasets, the directory structure should follow the
 standard YOLO format:
-
+```text
 COFFEE_FOB/
 |-- images/
 |   |-- train/
@@ -61,5 +61,6 @@ COFFEE_FOB/
 |   |-- val/
 |   |-- test/
 |-- data.yaml
+
 
 The Cherry dataset follows the same directory structure.
