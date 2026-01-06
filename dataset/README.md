@@ -61,6 +61,7 @@ COFFEE_FOB/
 |   |-- val/
 |   |-- test/
 |-- data.yaml
-
+```
 
 The Cherry dataset follows the same directory structure.
+
